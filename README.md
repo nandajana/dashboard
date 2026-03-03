@@ -1,4 +1,4 @@
-# dashboard
+# Market city Dashboard
 Market City is an interactive dashboard for data visualization created with Plotly, Pandas, and Streamlit. Users can input sales datasets to the application, and business performance measures like sales, profit, and quantity can be dynamically filtered, analyzed, and shown.
 
 Bar charts, pie charts, line charts, treemaps, scatter plots, and pivot tables are just a few of the chart types that the dashboard uses to offer a thorough analytical picture.
